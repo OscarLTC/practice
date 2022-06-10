@@ -6,10 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Bueno</p>
+        <p>GIT 2</p>
       </header>
     </div>
   );
 }
+
 
 export default App;
